@@ -1,0 +1,35 @@
+a {
+    color: cornflowerblue;
+    font-size: large;
+    /* background-color: cornflowerblue; */
+}
+.my_first_block {
+    background-color: cornflowerblue;
+    width: 700px;
+    margin: auto;
+}
+.new_block {
+    background-color: red;
+    color: royalblue;
+    font-size: medium;
+    width: 300px;
+    margin: auto;
+}
+
+.center-header-footer{
+    margin: auto;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 500px;
+}
+.footer {
+height: 25px;/**/
+margin: auto;/**/
+position: absolute;
+text-align: center;
+right: 0; /**/
+bottom: 0;
+left: 0; /**/
+      
+
+}
